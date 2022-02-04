@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexTheDev07
+- 👋 Hi, I’m Alex :)
 - 👀 I’m interested in development
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
