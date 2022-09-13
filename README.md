@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @🎅🏻 | AlexTheSanta | 🎅🏻#6988 ( Discord )
+- 📫 How to reach me @Alex07#4043 ( Discord )
 
 <!---
 AlexTheDev07/AlexTheDev07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
